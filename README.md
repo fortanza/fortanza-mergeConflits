@@ -1,1 +1,3 @@
 # fortanza-mergeConflits
+
+LOCAL
